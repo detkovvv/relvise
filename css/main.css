@@ -134,7 +134,7 @@ body {
 }
 
 .menu_item:not(:last-child) {
-    margin:  21px 0 0;
+    margin:  0 21px 0 0;
 }
 
 .menu_link {
